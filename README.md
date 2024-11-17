@@ -20,7 +20,7 @@ This Python script connects to a PostgreSQL database and generates an Excel repo
 ## Prerequisites
 - Python 3.x
 - PostgreSQL database
-- Required Python libraries (see `requirements.txt`)
+- Required 'psycopg2' and 'openpyxl' Python libraries (see `requirements.txt`)
 
 ## Installation
 Clone the repository and install dependencies:
